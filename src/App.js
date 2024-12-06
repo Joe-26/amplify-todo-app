@@ -4,8 +4,12 @@ import { useState } from 'react';
 
 function App() {
   const [count, setCount] = useState(0);
-  function addCount() {
+  function addOne() {
     setCount(count + 1);
+  }
+
+  function minusOne() {
+    setCount(count - 1);
   }
 
   function resetCount() {
@@ -28,7 +32,8 @@ function App() {
         </a>
         <br></br>
         <div>
-          <button className='button' onClick={addCount}>Click Me</button>
+          <button className='button' onClick={addOne}>+</button>
+          <button className='button' onClick={minusOne}>-</button>
           <button className='button' onClick={resetCount}>Reset</button>
         </div>
         <div className='count'>Count: {count}</div>
