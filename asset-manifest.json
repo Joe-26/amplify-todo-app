@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amplify-todo-app/static/css/main.3fac13ea.css",
+    "main.js": "/amplify-todo-app/static/js/main.9272b7bc.js",
+    "static/js/453.37753ddd.chunk.js": "/amplify-todo-app/static/js/453.37753ddd.chunk.js",
+    "static/media/logo.svg": "/amplify-todo-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/amplify-todo-app/index.html",
+    "main.3fac13ea.css.map": "/amplify-todo-app/static/css/main.3fac13ea.css.map",
+    "main.9272b7bc.js.map": "/amplify-todo-app/static/js/main.9272b7bc.js.map",
+    "453.37753ddd.chunk.js.map": "/amplify-todo-app/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fac13ea.css",
+    "static/js/main.9272b7bc.js"
+  ]
+}
